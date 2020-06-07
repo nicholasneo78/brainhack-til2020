@@ -1,3 +1,3 @@
-# BrainHack 2020 - Computer Vision
+# BrainHack 2020
 
 A project organised by DSTA.
