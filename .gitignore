@@ -1,0 +1,12 @@
+# IGNORE IMPORTING OF DATASETS
+datasets/fashion_text_dataset.csv
+
+# TO IGNORE ALL .JPG FILES
+*.jpg
+
+# TO IGNORE ALL .H5 FILES
+*.h5
+
+# IGNORE CHECKPOINTS
+.ipynb_checkpoints
+
