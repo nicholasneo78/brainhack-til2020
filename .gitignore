@@ -1,5 +1,5 @@
 # IGNORE IMPORTING OF DATASETS
-#datasets/fashion_text_dataset.csv
+datasets/word_embeddings.pkl
 
 # TO IGNORE ALL .JPG FILES
 *.jpg
