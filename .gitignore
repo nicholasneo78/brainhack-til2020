@@ -9,4 +9,4 @@ datasets/word_embeddings.pkl
 
 # IGNORE CHECKPOINTS
 .ipynb_checkpoints
-
+*.zip
