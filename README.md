@@ -1,5 +1,5 @@
-# BrainHack 2020
-
+# TIL 2020
+## Using AI and Robotics on Disaster Rescue
 A project organised by DSTA.
 
 ## Problem statement
